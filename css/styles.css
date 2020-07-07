@@ -137,6 +137,10 @@ body.dark {
   padding: 40px 0;
 }
 
+body.dark .main__works {
+  background: #34495e;
+}
+
 .main__works .contianer {
   overflow: hidden;
 }
