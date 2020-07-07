@@ -1,0 +1,47 @@
+@media screen and (max-width: 800px){
+	.nav{
+		text-align: center;
+	}
+
+	.work{
+		width: 46%;
+	}
+}
+
+@media screen and (max-width: 500px){
+	.containertext{
+        margin: 100px 0;
+        &__name{
+            font-size: 35px;
+        }
+        &__profession{
+            font-size: 18px; 
+        }
+    }
+    
+    .footer{
+        &__socialnetworks {
+            .container {
+                flex-wrap: wrap;
+                padding: 20px 0; 
+            }
+        }
+        &__link {
+            &--twitter:hover {
+                background: #1da1f2;
+            }
+            &--facebook:hover {
+                background: #3b5998;
+            }
+            &--youtube:hover {
+                background: #ff0000;
+            }
+            &--github:hover {
+                background: #333;
+            }
+            &--instagram:hover {
+                background: #e1306c;
+            }
+        }
+    }
+}
