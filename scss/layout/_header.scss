@@ -29,4 +29,12 @@
         font-size: 25px;
 	    line-height: 25px;
     }
+    &__link{
+        padding: 5px 10px;
+        border-radius: 5px;
+        border: 2px solid #fff;
+        background: #2ecc71;
+        text-decoration: none;
+        color: #fff;
+    }
 }

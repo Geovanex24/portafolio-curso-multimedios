@@ -58,6 +58,15 @@ body.dark {
   line-height: 25px;
 }
 
+.containertext__link {
+  padding: 5px 10px;
+  border-radius: 5px;
+  border: 2px solid #fff;
+  background: #2ecc71;
+  text-decoration: none;
+  color: #fff;
+}
+
 .nav {
   margin: 40px 0;
   text-align: right;
