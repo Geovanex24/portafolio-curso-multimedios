@@ -23,6 +23,10 @@
         font-weight: 600;
         color: #323068;
         text-align: center;
+
+        body.dark &{
+            color: #ecf0f1;
+        }
     }
 }
 

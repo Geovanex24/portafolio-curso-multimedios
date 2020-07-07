@@ -154,6 +154,10 @@ body.dark .main__works {
   text-align: center;
 }
 
+body.dark .main__title {
+  color: #ecf0f1;
+}
+
 .photo {
   margin-top: -60px;
 }
