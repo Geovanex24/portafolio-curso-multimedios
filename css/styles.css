@@ -299,7 +299,7 @@ body.dark .workdescription__category {
     font-size: 18px;
   }
   .switch {
-    top: 40px;
+    top: -10px;
   }
   .footer__socialnetworks .container {
     flex-wrap: wrap;
