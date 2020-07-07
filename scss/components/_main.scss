@@ -95,6 +95,9 @@
     }
     &__category {
         font-size: 14px;
-	    color: #636363;
+        color: #636363;
+        body.dark & {
+            color: #2ecc71;
+        }
     }
 }

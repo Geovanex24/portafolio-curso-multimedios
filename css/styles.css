@@ -234,6 +234,10 @@ body.dark .abouttext {
   color: #636363;
 }
 
+body.dark .workdescription__category {
+  color: #2ecc71;
+}
+
 .footer__socialnetworks {
   background: #1e2b38;
   padding: 80px 0;
